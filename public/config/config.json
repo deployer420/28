@@ -8,7 +8,7 @@
   },
   "NFT_NAME": "Omegablox by NeoNova",
   "SYMBOL": "OMEGA",
-  "MAX_SUPPLY": 2000,
+  "MAX_SUPPLY": 1666,
   "WEI_COST": 9000000000000000,
   "DISPLAY_COST": 0.009000000,
   "GAS_LIMIT": 140000,

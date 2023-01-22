@@ -286,7 +286,7 @@ function App() {
                 color: "var(--accent-text)",
               }}
             >
-              Omegablox by NeoNova: Unique, 3D digital shapes that exist as one-of-a-kind NFTs on Ethereum. Build, explore and collect one of the failed radioactive experiments
+              Omegablox by NeoNova: Unique, 3D digital shapes that exist as one-of-a-kind NFTs on Ethereum. Build, explore and collect one of the failed radioactive experiments, but don't forget your radiation suit.
             </s.TextDescription>
             <s.SpacerLarge />
 
